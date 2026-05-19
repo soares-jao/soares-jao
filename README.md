@@ -1,45 +1,84 @@
-<h1 align="center">João Paulo Soares 💻</h1>
+<div align="center">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=João%20Paulo%20Soares&fontSize=42&fontColor=ffffff&theme=cobalt&animation=fadeIn&desc=Front-end%20Developer&descSize=18&descAlignY=70" width="100%" />
+
 </div>
 
-<p align="left" style="margin-top: -40px;">
-  Sou desenvolvedor focado em Front-end, sempre explorando novas tecnologias e 
-  aprimorando minhas habilidades. Gosto de transformar ideias em interfaces funcionais, limpas e responsivas.
-</p>
+---
 
-###
+### 👋 Sobre mim
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+Desenvolvedor focado em **Front-end**, sempre explorando novas tecnologias e aprimorando minhas habilidades. Gosto de transformar ideias em interfaces funcionais, limpas e responsivas — do conceito ao código.
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=soares-jao&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false" 
-    height="170"
+- 🎨 Apaixonado por UI/UX e boas experiências de usuário
+- 📚 Em constante aprendizado e evolução
+- 🚀 Buscando meu espaço no mercado de tecnologia
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3" alt="CSS3" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" height="45" title="Python" alt="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" title="Flutter" alt="Flutter" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" title="VS Code" alt="VS Code" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" title="Canva" alt="Canva" />
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=soares-jao&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true"
+    height="160"
+    alt="GitHub Stats"
   />
-
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" />
-    <img src="https://skillicons.dev/icons?i=py" height="50" />
-  </div>
-
+  &nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=soares-jao&layout=compact&card_width=280&langs_count=6&theme=dracula&hide_border=true"
+    height="160"
+    alt="Top Languages"
+  />
 </div>
 
-###
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=soares-jao&theme=dracula&hide_border=true"
+    height="150"
+    alt="GitHub Streak"
+  />
+</div>
 
-<img src="https://raw.githubusercontent.com/soares-jao/soares-jao/output/snake.svg" />
+---
 
-###
+### 🐍 Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/soares-jao/soares-jao/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 📬 Contato
 
 <div align="center">
   <a href="https://www.instagram.com/j0aops_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
   </a>
+  &nbsp;
   <a href="mailto:joaosoares.nogueira8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
   </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=soares-jao&label=Visitas%20ao%20perfil&color=6272a4&style=flat" alt="Profile views" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" width="100%" />
