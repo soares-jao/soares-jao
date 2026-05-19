@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=João%20Paulo%20Soares&fontSize=42&fontColor=ffffff&theme=cobalt&animation=fadeIn&desc=Front-end%20Developer&descSize=18&descAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=João%20Paulo%20Soares&fontSize=46&fontColor=4169E1&theme=cobalt&animation=fadeIn&desc=Front-end%20Developer&descSize=20&descAlignY=72&descColor=a8c4f5" width="100%" />
 
 </div>
 
@@ -25,32 +25,6 @@ Desenvolvedor focado em **Front-end**, sempre explorando novas tecnologias e apr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" title="Flutter" alt="Flutter" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" title="VS Code" alt="VS Code" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" title="Canva" alt="Canva" />
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=soares-jao&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true"
-    height="160"
-    alt="GitHub Stats"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=soares-jao&layout=compact&card_width=280&langs_count=6&theme=dracula&hide_border=true"
-    height="160"
-    alt="Top Languages"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=soares-jao&theme=dracula&hide_border=true"
-    height="150"
-    alt="GitHub Streak"
-  />
 </div>
 
 ---
